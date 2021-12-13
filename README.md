@@ -13,4 +13,4 @@ This is respository contains various examples of C Codes.
 
 
 ### Author 
-Jorge Minjares# C-Codes
+Jorge Minjares
